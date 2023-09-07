@@ -1,16 +1,8 @@
 # weather_app
 
-A new Flutter project.
+A weather app developed using flutter with a neat looking UI that can fetch data from api "openWeatherApi" and display the contents of fetched data on the screen.
 
-## Getting Started
+## UI Screen
+![Screenshot_1694082283](https://github.com/priteshkadam794/WeatherApp/assets/131458288/9be423c2-5991-40f3-bd24-41cffc7bafcd)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1694082333](https://github.com/priteshkadam794/WeatherApp/assets/131458288/8eece922-a29d-4caf-9d4c-ac2c9efe6a63)
